@@ -1,7 +1,6 @@
 ## 目次
 1. Docker CE(Community Edition)の導入と設定
    - CentOSにDockerを導入しよう
-   - UbuntuにDockerを導入しよう
    - Storage Driverを選択する
    - Containerを起動する
    - Docker Engineをアップグレードする
@@ -24,7 +23,7 @@
 
 3. Orchestration
    - Swarm Clusterのlockとunlock
-   - Swarm ClusterのHigh Availability 
+   - Swarm ClusterのHigh Availability
    - Docker Servicesとは？
    - docker inspectを活用しよう
    - Docker Composeとは？
@@ -46,7 +45,7 @@
    - Containersを外部へ出力してみよう
    - Network Troubleshooting
    - 外部DNSをつかってDockerを設定してみよう
-   
+
 6. Security
    - Signing Images and Enabling Docker Content Trust
    - Docker Engine Securityについて
